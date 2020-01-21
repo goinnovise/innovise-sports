@@ -9,12 +9,12 @@ Git clone the application to your local machine and run with `ng serve`. Please 
 ## Bugs
 
 - When you change a sport, you can still see the old players
+- When page initially loads, no players are shown for the first team.
 
 ## Notes
 
 - Please don't touch the lines of code where there are inline comments mentioning so.
 - You might notice `delay()` calls in the code. These are in place to simulate an HTTP call that may not be instant.
-- When page initially loads, no players are shown for the first team.
 - Feel free to reach out to Innovise with any concerns, questions, or ideas.
 
 ## When you're finished
